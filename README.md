@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://c.tenor.com/Bpv9wTLKMskAAAAC/computer-nerds.gif" width="500" height="300" /> </p>
+
 <h1 align="center">Hi 👋, I'm Aniruddha Dhar Chowdhury</h1>
 <h3 align="center">A Beginner In Software Development And Web Development</h3>
 
