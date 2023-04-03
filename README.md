@@ -8,7 +8,7 @@
 
 -🖥️ I am a Flutter Developer
 
-- 💻 I’m currently learning **C++,ReactJS**
+- 💻 I’m currently learning **ReactJS**
 
 - 🏫 Pursuing **B-Tech** in ***Computer Science And Engineering***
 
