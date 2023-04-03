@@ -10,7 +10,7 @@
 
 - 💻 I’m currently learning **C++,ReactJS**
 
-- 🏫 I'm currently studying **B-tech** at ***Techno International New Town***
+- 🏫 Pursuing **B-Tech** in ***Computer Science And Engineering***
 
 - 📫 How to reach me **aniruddhadchowdhury77@gmail.com**
 
