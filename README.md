@@ -8,8 +8,6 @@
 
  <h3 align="left">-🖥️ I am a Web Developer</h3>
 
-- 💻 I’m currently learning **NextJS**
-
 - 🏫 Pursuing **B-Tech** in ***Computer Science And Engineering***
 
 - 📫 How to reach me **aniruddhadc.dev@gmail.com**
