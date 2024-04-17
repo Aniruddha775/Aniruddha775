@@ -12,7 +12,7 @@
 
 - 🏫 Pursuing **B-Tech** in ***Computer Science And Engineering***
 
-- 📫 How to reach me **aniruddhadchowdhury77@gmail.com**
+- 📫 How to reach me **aniruddhadc.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
