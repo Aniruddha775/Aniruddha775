@@ -6,7 +6,7 @@
 
  [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Aniruddha785?style=social)](https://twitter.com/Aniruddha785) [![GitHub aniruddha775](https://img.shields.io/github/followers/aniruddha775?label=follow&style=social)](https://github.com/aniruddha775)  
 
- <h3 align="left">-🖥️ I am a Web Developer</h3>
+ <h3 align="left">-🖥️ I am a Software Developer</h3>
 
 - 🏫 Pursuing **B-Tech** in ***Computer Science And Engineering***
 
