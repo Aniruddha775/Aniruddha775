@@ -1,6 +1,7 @@
 # Hi there! 👋 I’m Aniruddha Dhar Chowdhury
  A passionate Full Stack Developer currently pursuing my B.Tech in Computer Science and Engineering. My journey in tech has led me to explore a wide range of fields, from building scalable web applications to diving deep into Deep Learning and AI projects. I love solving complex problems, building innovative solutions, and continuously expanding my skills through hands-on projects and research. Feel free to check out my repositories to explore my work and contributions!
 
+## Reach me: aniruddhadc.dev@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aniruddha_775) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniruddha-950944221) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aniruddha785) 
